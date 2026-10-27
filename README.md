@@ -72,8 +72,6 @@ Airline-Flight-Delay-Analysis-Prediction/
 ├── app.py
 ├── best_flight_delay_regression_model.pkl
 ├── regression_model_comparison.csv
-├── cleaned_airline_flight_delays.csv
-├── multiple_regression_predictions.csv
 ├── requirements.txt
 └── README.md
 ```
